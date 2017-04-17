@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+*{
+	font-family: 'Montserrat';
+
+}
+ul{
+	background: #2CE896;
+
+}
+li{
+	/*background: #16C51A;*/
+	display: inline-block;
+	padding: 20px;
+	list-style: none; /* desaparecen las viñetas */
+}
+a{
+	color: whitesmoke;
+	text-decoration:none; /*se elimina el subrayado*/
+	padding:10px;
+
+}
+a:hover{
+	color: #730BE8;
+}
+span{
+	/*background: #050199;*/
+	color: red;
+	margin: 0 100px;
+}
